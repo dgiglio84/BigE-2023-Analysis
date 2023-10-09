@@ -16,40 +16,45 @@ For this analysis, data was collected from two sources:
 2.	Weather Underground (https://www.wunderground.com/history/daily/us/ma/west-springfield/KBDL)
 
 **Data Cleaning**
+
 The information on the Big E home page is in an unorthodox format. For example, the website shows the calendar of events, but it is not exportable:
 
-![image](https://github.com/dgiglio84/BigE-2023-Analysis/assets/120340086/0cfee6c9-1d7d-4c7b-90d7-686c0f0220a4)
+![image](https://github.com/dgiglio84/BigE-2023-Analysis/assets/120340086/a67e75bb-99d9-4bc5-8f9f-82dc03bbbbdc)
 
 As a result, the text was copied and pasted in Excel, where it was heavily cleaned:
 
-![image](https://github.com/dgiglio84/BigE-2023-Analysis/assets/120340086/e33ad202-d2d7-4475-8453-9bfa248b4f37)
+![image](https://github.com/dgiglio84/BigE-2023-Analysis/assets/120340086/1653d193-187e-43c9-b0af-0d865c847770)
 
-![image](https://github.com/dgiglio84/BigE-2023-Analysis/assets/120340086/2a235968-2c30-4194-a9f3-1e9ffcc3fa1f)
+![image](https://github.com/dgiglio84/BigE-2023-Analysis/assets/120340086/f5354a7c-0c3c-4629-8a27-9561e32a1382)
+
 
 The Weather Underground data was not as difficult to clean:
-![image](https://github.com/dgiglio84/BigE-2023-Analysis/assets/120340086/86711120-6080-4486-8789-a4302af7c6c1)
+![image](https://github.com/dgiglio84/BigE-2023-Analysis/assets/120340086/d713cfbd-a72a-427a-bba7-9c700507bdd7)
 
-![image](https://github.com/dgiglio84/BigE-2023-Analysis/assets/120340086/5f48a3f1-c4aa-4825-a5b0-a854f0ca27d2)
+![image](https://github.com/dgiglio84/BigE-2023-Analysis/assets/120340086/11827118-aea6-40c4-a6ff-f3bd886e3e6d)
 
 **Analysis Process**
 
 Imported data from Excel tables into a Power BI model. Created a date table to create a relationship between all the data. Created charts and measures to analyze relationships between attendance, weather, and events.
 
-**General attendance observations**
+**Analysis - General Attendance**
 
 -	The most popular day of the week to visit the Big E is on Saturday and Sunday. The least popular day to visit is Monday.
-![image](https://github.com/dgiglio84/BigE-2023-Analysis/assets/120340086/8486ec92-196d-45d4-a54a-40c283129d52)
+  
+![image](https://github.com/dgiglio84/BigE-2023-Analysis/assets/120340086/c5c1d325-cdf2-44d6-8767-6e1bdf95fc38)
 
 -	In 2023, the Big E had slightly more visitors on weekdays and weekends.
-![image](https://github.com/dgiglio84/BigE-2023-Analysis/assets/120340086/e8846527-abfb-4c90-aa1c-5c7c1dffb174)
+  
+![image](https://github.com/dgiglio84/BigE-2023-Analysis/assets/120340086/5a40acef-be48-4a00-966f-594e8795f650)
 
 **Analysis - Weather**
 
--	There does not appear to be a correlation between the amount of rainfall and daily attendance. In fact, on its most-attended day (9/30/23), West Springfield received 3.8 inches of rain. The only day where the attendance was slightly lower due to rain was 9/25/23:
-![image](https://github.com/dgiglio84/BigE-2023-Analysis/assets/120340086/653765cf-ea8a-4a28-98ab-65337d06d75e)
+-	There does not appear to be a correlation between the amount of rainfall and daily attendance. In fact, **on its most-attended day (9/30/23), West Springfield received 3.8 inches of rain**. The only day where the attendance was slightly lower due to rain was 9/25/23:
+![image](https://github.com/dgiglio84/BigE-2023-Analysis/assets/120340086/2fdb053c-614b-4dcb-8500-0938943638d5)
 
- -	When looking at temperature, the daily max seems to be proportional the day’s total attendance:
-![image](https://github.com/dgiglio84/BigE-2023-Analysis/assets/120340086/f1e2f6e9-b1e0-4b88-8d3d-bfccb347a897)
+ -	When looking at temperature, **the daily max seems to be proportional the day’s total attendance**:
+![image](https://github.com/dgiglio84/BigE-2023-Analysis/assets/120340086/c5288e9f-e917-4acf-a111-9bdf092a266a)
+
 
 **About Concerts**
 
@@ -57,13 +62,17 @@ A popular reason to attend the Big E is for concerts. There are typically two ty
 
 **Analysis - Small Concerts**
 
-Although it is impossible to gauge how many people attended each concert, based on the attendance The Edge Effect had the highest probability of being seen. The table below shows an aggregate of the attendance for each they were at the event.
-![image](https://github.com/dgiglio84/BigE-2023-Analysis/assets/120340086/ace555e6-f663-403a-a85b-345577e2b1a3)
+Although it is impossible to gauge how many people attended each concert, based on the attendance **The Edge Effect had the highest probability of being attended**. The table below shows an aggregate of the attendance for each they were at the event.
+
+![image](https://github.com/dgiglio84/BigE-2023-Analysis/assets/120340086/be146de4-5fda-4464-808f-3ccdfa1e1cf4)
+
 
 **Analysis – Big Concerts**
 
-Without having the actual ticket sales for each concert, I can hypothesize that artists from the 1990s greatly impacted daily attendance. When sorting attendance by highest daily average, artists from this decade headlined three of out the six days:
-![image](https://github.com/dgiglio84/BigE-2023-Analysis/assets/120340086/e60511b6-d6b3-4fdb-aa22-3d55cd5bde75)
+Without having the actual ticket sales for each concert, I can hypothesize that artists from the 1990s greatly impacted daily attendance. When sorting attendance by highest daily average, artists from this decade headlined **three of out six days**:
+
+![image](https://github.com/dgiglio84/BigE-2023-Analysis/assets/120340086/edceef60-396c-408b-b2a2-690292034f2c)
+
 
 **Missing Data**
 
