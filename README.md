@@ -2,13 +2,16 @@
 
 
 **Introduction**
+
 The Big E is an annual New England fair that takes place in West Springfield, Massachusetts. It opens the second Friday after Labor Day and lasts for a total of seventeen days. In 2023, the Big E ran from September 15 to October 1.
 
 **Goal**
-To find factors which affect the attendance of each day at the Big E.
+
+To find factors which affected the daily attendance.
 
 **Gathering Data**
-For this analysis, the data was collected from two sources:
+
+For this analysis, data was collected from two sources:
 1.	The Big E home page (https://www.thebige.com/)
 2.	Weather Underground (https://www.wunderground.com/history/daily/us/ma/west-springfield/KBDL)
 
