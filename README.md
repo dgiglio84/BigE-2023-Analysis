@@ -60,12 +60,6 @@ Imported data from Excel tables into a Power BI model. Created a date table to c
 
 A popular reason to attend the Big E is for concerts. There are typically two types of concerts: small concerts that take place on the center stage, and big concerts that take place in the Big E Arena. The small concerts are included in the price of a ticket, but the big concerts cost extra.
 
-**Analysis - Small Concerts**
-
-Although it is impossible to gauge how many people attended each concert, based on the attendance **The Edge Effect had the highest probability of being attended**. The table below shows an aggregate of the attendance for each they were at the event.
-
-![image](https://github.com/dgiglio84/BigE-2023-Analysis/assets/120340086/be146de4-5fda-4464-808f-3ccdfa1e1cf4)
-
 
 **Analysis – Big Concerts**
 
