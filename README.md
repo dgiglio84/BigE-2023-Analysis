@@ -68,6 +68,7 @@ The Weather Underground data was not as difficult to clean:
 A popular reason to attend the Big E is for concerts. There are typically two types of concerts: small concerts that take place on the center stage, and big concerts that take place in the Big E Arena. The small concerts are included in the price of a ticket, but the big concerts cost extra.
 
 **Analysis - Small Concerts**
+
 Although it is impossible to gauge how many people attended each concert, based on attendance The Edge Effect had the highest probability of being attended. The table below shows an aggregate of the attendance for each they were at the event.
 
 ![image](https://github.com/dgiglio84/BigE-2023-Analysis/assets/120340086/07a11c58-eda0-4819-9ec6-0b9f94ec95d6)
