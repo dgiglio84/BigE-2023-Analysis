@@ -23,9 +23,7 @@ The information on the Big E home page is in an unorthodox format. For example, 
 
 As a result, the text was copied and pasted in Excel, where it was heavily cleaned:
 
-![image](https://github.com/dgiglio84/BigE-2023-Analysis/assets/120340086/1653d193-187e-43c9-b0af-0d865c847770)
-
-![image](https://github.com/dgiglio84/BigE-2023-Analysis/assets/120340086/f5354a7c-0c3c-4629-8a27-9561e32a1382)
+![image](https://github.com/dgiglio84/BigE-2023-Analysis/assets/120340086/2f72f8d9-16b5-412a-a935-7f225e96eb15)         ![image](https://github.com/dgiglio84/BigE-2023-Analysis/assets/120340086/f5354a7c-0c3c-4629-8a27-9561e32a1382)
 
 
 The Weather Underground data was not as difficult to clean:
