@@ -1,4 +1,4 @@
-# The Big E 2023 -Attendance Analysis
+# The Big E 2023 - Attendance Analysis
 
 
 **Introduction**
