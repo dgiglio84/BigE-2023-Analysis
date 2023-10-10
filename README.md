@@ -7,7 +7,7 @@ The Big E is an annual New England fair that takes place in West Springfield, Ma
 
 **Goal**
 
-To find factors which affected the daily attendance.
+To analyze factors, such as weather and events, which affected the daily attendance.
 
 **Gathering Data**
 
@@ -75,8 +75,9 @@ Without having the actual ticket sales for each concert, I can hypothesize that 
 ![image](https://github.com/dgiglio84/BigE-2023-Analysis/assets/120340086/edceef60-396c-408b-b2a2-690292034f2c)
 
 
-**Missing Data**
+**Conclusion**
 
+Based on this analysis, the weather did not seem to play a significant role in the overall attendance. However, it can be argued that headlining acts drew more crowds towards the end of the fair’s season.
 This analysis would have been more accurate had I been able to retrieve the following data:
 -	The time in which visitors arrived at the Big E.
 -	The number of tickets sold for the big concerts.
