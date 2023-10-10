@@ -45,17 +45,22 @@ The Weather Underground data was not as difficult to clean:
   
 ![image](https://github.com/dgiglio84/BigE-2023-Analysis/assets/120340086/c5c1d325-cdf2-44d6-8767-6e1bdf95fc38)
 
--	In 2023, the Big E had slightly more visitors on weekdays and weekends.
+-	Conversely, there were slightly more visitors during the weekdays than on weekends.
   
 ![image](https://github.com/dgiglio84/BigE-2023-Analysis/assets/120340086/5a40acef-be48-4a00-966f-594e8795f650)
 
 **Analysis - Weather**
 
--	There does not appear to be a correlation between the amount of rainfall and daily attendance. In fact, **on its most-attended day (9/30/23), West Springfield received 3.8 inches of rain**. The only day where the attendance was slightly lower due to rain was 9/25/23:
-![image](https://github.com/dgiglio84/BigE-2023-Analysis/assets/120340086/2fdb053c-614b-4dcb-8500-0938943638d5)
+-	There does not appear to be a correlation between the amount of rainfall and daily attendance. In fact, **on its most-attended day (9/30/23), West Springfield received 3.8 inches of rain**. The only day in which the attendance was lower due to rain was 9/25/23:
 
- -	When looking at temperature, **the daily max seems to be proportional the day’s total attendance**:
-![image](https://github.com/dgiglio84/BigE-2023-Analysis/assets/120340086/c5288e9f-e917-4acf-a111-9bdf092a266a)
+![image](https://github.com/dgiglio84/BigE-2023-Analysis/assets/120340086/a61c3afe-99e5-4bb0-8ae2-43d23a47dc66)
+
+
+ -	However, when looking at the temperature data, **the daily max seems to be proportional the day’s total attendance**:
+
+![image](https://github.com/dgiglio84/BigE-2023-Analysis/assets/120340086/ac7e1e2e-27d3-46c6-9a7f-f34955aa2a2f)
+
+
 
 
 **About Concerts**
