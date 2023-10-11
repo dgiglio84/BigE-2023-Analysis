@@ -69,7 +69,7 @@ At the Big E, there are typically two types of concerts: small concerts that tak
 
 Although it is impossible to gauge how many people attended each concert, based on attendance The Edge Effect had the highest probability of being attended. The table below shows an aggregate of the attendance for each they were at the event.
 
-![image](https://github.com/dgiglio84/BigE-2023-Analysis/assets/120340086/07a11c58-eda0-4819-9ec6-0b9f94ec95d6)
+![image](https://github.com/dgiglio84/BigE-2023-Analysis/assets/120340086/bda4bea2-41ba-4310-9c46-3be435cf758b)
 
 
 **Analysis – Big Concerts**
