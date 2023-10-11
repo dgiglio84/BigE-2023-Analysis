@@ -63,7 +63,7 @@ The Weather Underground data was not as difficult to clean:
 
 **About Concerts**
 
-A popular reason to attend the Big E is for concerts. There are typically two types of concerts: small concerts that take place on the center stage, and big concerts that take place in the Big E Arena. The small concerts are included in the price of a ticket, but the big concerts cost extra.
+At the Big E, there are typically two types of concerts: small concerts that take place on the center stage, and big concerts that take place in the Big E Arena. The small concerts are included in the price of a ticket, but the big concerts require the purchase of an additional concert ticket.
 
 **Analysis - Small Concerts**
 
@@ -82,7 +82,8 @@ Without having the actual ticket sales for each concert, I can hypothesize that 
 **Conclusion**
 
 Based on this analysis, the weather did not seem to play a significant role in the overall attendance. However, it can be argued that headlining acts drew more crowds towards the end of the fair’s season.
-This analysis would have been more accurate had I been able to retrieve the following data:
+
+This analysis may have been more accurate had I been able to retrieve the following data:
 -	The time in which visitors arrived at the Big E.
 -	The number of tickets sold for the big concerts.
 
